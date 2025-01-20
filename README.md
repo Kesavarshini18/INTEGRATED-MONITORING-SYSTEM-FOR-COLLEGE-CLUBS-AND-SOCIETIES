@@ -1,1 +1,2 @@
 # INTEGRATED-MONITORING-SYSTEM-FOR-COLLEGE-CLUBS-AND-SOCIETIES
+The primary objective of this project is to design and develop a Club and Societies Management System using the MERN stack (MongoDB, Express.js, React.js, and Node.js). The system aims to streamline and automate the management of clubs and societies in an educational institution by providing a centralized platform for students, club coordinators, and administrators.
